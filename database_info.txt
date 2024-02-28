@@ -1,0 +1,6 @@
+Database Name : wordpress
+User Name : wordpressuser
+Password : password
+Database Host : localhost
+Table Prefix : wp_
+
